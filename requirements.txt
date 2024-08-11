@@ -6,3 +6,5 @@ flask
 langchain 
 PyPDF2
 pypdf
+
+-e .
