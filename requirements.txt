@@ -10,4 +10,5 @@ python-dotenv
 langchain-community
 langchain-openai
 langchain-pinecone
+flask-session
 -e .
