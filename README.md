@@ -8,6 +8,10 @@ conda create -n mchatbot python=3.8 -y
 Activate Virtual Environment
 conda activate mchatbot
 
+Go into Folder
+dir 
+cd Medical-Chatbot-2
+
 Install Requirements 
 python -m pip install -r requirements.txt
 
