@@ -16,6 +16,7 @@ from langchain.embeddings import HuggingFaceEmbeddings
 
 # Load .env file 
 load_dotenv()
+
 PINECONE_API_KEY = os.environ.get('PINECONE_API_KEY')
 
 

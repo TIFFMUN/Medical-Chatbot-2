@@ -21,3 +21,20 @@ Download the Llama 2 Model:
 llama-2-7b-chat.ggmlv3.q4_0.bin
 https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
 
+Load store_index.py file 
+python store_index.py
+
+Load app.py file 
+python app.py 
+
+Open up Local Host to Run Medical Chatbot 
+
+Ctrl + C to stop Medical Chatbot
+
+Techstacks Used: 
+- Python 
+- LangChain
+- Flask 
+- Meta Llama 2
+- Pinecone 
+
