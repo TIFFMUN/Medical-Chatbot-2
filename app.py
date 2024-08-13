@@ -57,9 +57,6 @@ rag_chain = (
     | StrOutputParser()
 )
 
-# result = rag_chain.invoke("What are Allergens?")
-# print(result)
-
 @app.route("/")
 def index():
     return render_template('chat.html')
